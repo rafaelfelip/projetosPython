@@ -38,8 +38,3 @@ for contato in contatos:
 
 #Campo de pesquisa 'copyable-text selectable-text'
 #Campo de mensagem privada 'copyable-text selectable-text'
-
-
-
-
-#copyable-text selectable-text
